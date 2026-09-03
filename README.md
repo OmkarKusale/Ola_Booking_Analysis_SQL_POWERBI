@@ -51,10 +51,9 @@ The Power BI dashboard provides an interactive view of:
 
 ## 💡 Key Insights
 
-Some insights identified from the analysis include:
-
-- A significant portion of bookings were cancelled.
-- Customer and driver cancellation reasons were analyzed separately.
-- Vehicle types were compared based on ride distance and customer ratings.
-- Successful booking value was calculated.
-- Top customers based on booking frequency were identified.
+- The dataset contains 40,539 total bookings, of which 25,207 were successful.
+- 11,291 bookings were cancelled, resulting in a cancellation rate of 27.86%.
+- Customer and driver cancellations were analyzed separately to identify major cancellation reasons.
+- Vehicle types were compared based on average ride distance and customer ratings.
+- The analysis identified the top customers based on booking frequency.
+- The total booking value of successfully completed rides was calculated to evaluate revenue performance.
